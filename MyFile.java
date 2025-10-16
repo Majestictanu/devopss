@@ -1,1 +1,7 @@
-I am Tanuja Shelke and this is my devops exam
+public class MyFile {
+    public static void main(String[] args) {
+        System.out.println("Hello GitHub!");
+    }
+}
+
+
